@@ -1,8 +1,20 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+body{
+  margin: 0 auto;
+  width: 500px;
+  background-color: #F0F0C9;
 }
-
-a {
-  color: #00B7FF;
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+  font-family: 'Roboto Slab', serif;
+  font-size: 80px;
+  color: #700548;
+  font-weight: bold;
+}
+.title {
+  font-weight: thin;
+}
+main{
+  background-color: white;
 }
