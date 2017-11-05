@@ -113,8 +113,8 @@ fabric.properties
 # MongoDB
 .idea/inspectionProfiles/
 .idea/workspace.xml
-#database/
-#public/images/
-#public/javascripts/
+database/
+public/images/
+public/javascripts/
 
-#config.js
+config.js

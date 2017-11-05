@@ -9,7 +9,7 @@ router.get('/', function(req, res, next) {
     User.find({}, function (err, user) {
         if (err) throw err;
 
-        // load user page
+        //res.render('user');
     })
 });
 
